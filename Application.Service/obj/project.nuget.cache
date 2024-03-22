@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4WSyqIN9baGJQz9TqU+GlQ9mWn4rxtzuq6BhYxAZbD2nagpP+NrPEPXPNYNILBz+3HUeZ0TPNBK4ST1nV7U2Nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Project Microwest\\Desktop\\PROJECT-CASTOR\\CRUD-SCRUM\\Application.Service\\Application.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Project Microwest\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Project Microwest\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Project Microwest\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
